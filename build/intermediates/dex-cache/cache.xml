@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\38b5f20090e3c25815b85a532e73bbb283f6086b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09bccc362318241486a2b60beb696f6314114b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\1c7a7db13f4982e6615022b3d8fa0925c8aef719\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4b891ef40be951659518ad37e282a1732513cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\appdata\local\android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5dc5286a49c4498b86b004f5f7c8e5ffb1665345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\5fd6f79ba70ec625c7aad6c161b60bd3130fad30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01c020f77a29f1119520d222acb274152aea51f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\9b1517095cc0932dd41c343a2b25c2b67b2dbdd1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_526b588d530762f5eff4b33b4746957678933435\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\d8fcc9af5a7037ff5a52f6561531be169b6b5de9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72fcc94d4bfa4287372601f51829d35f4661f52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\d333b0796133407e27e75d3bb0342601b8a41285\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fb52698082e8f5e87b68d41cbd5c8e6d08964e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f99182179b06fe34dd5269808b1097516754550">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f96a890cb65a0eb9b65e262826c236c49ac35c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\9d50eacf34fcb2b954727f3e5b2f5f1c998fef1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d572ab499f322fee20f217e8d0de840732703bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\58bc7cc4cb623dd8c0046f3763fd3560643a77d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc28434aaa16b0db5fe79e3cab7d3abf82fbd29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\appdata\local\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9f20a8452e754089c859bf29ce3db57bfdeeb037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\6b1e03e00fa80a78d528a5fb45106a3acd7c74f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f049d5c34b41cd7540598a85abd72b6bb5c47776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a3db1f1168792648e8d47605107659c02e68ded9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sajib 17\.android\build-cache\cdd302e5bdda7237d17066e5362d10f31c01ad7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="H:\AndroidStudioProjects\TravelBangladesh\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aade5597241083aea7035bb5642a88c159cdcd75\classes.dex" />
+    </item>
+
+</items>

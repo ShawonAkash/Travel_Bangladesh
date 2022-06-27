@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rangpur.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_rangpur.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barishal.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_barishal.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sylhet.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sylhet.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rajshahi.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_rajshahi.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tourismarea.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_tourismarea.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lvlayout.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\lvlayout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_moulabibazar.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_moulabibazar.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sunamganj.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sunamganj.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sreemangal.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sreemangal.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_khulna.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_khulna.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customlayout.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\customlayout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resourt.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_resourt.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sylhetarea.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sylhetarea.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dhaka.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_dhaka.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resourts.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_resourts.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chittagong.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_chittagong.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_outofdhaka.xml",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_outofdhaka.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    }
+]

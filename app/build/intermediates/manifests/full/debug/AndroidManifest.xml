@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sajib17.travelbangladesh"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="26" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.sajib17.travelbangladesh.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.sajib17.travelbangladesh.Tourismarea" />
+        <activity android:name="com.example.sajib17.travelbangladesh.ResourtsActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.DhakaActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.KhulnaActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.SylhetActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.BarishalActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.ChittagongActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.RajshahiActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.RangpurActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.ResourtActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.outofdhaka" />
+        <activity android:name="com.example.sajib17.travelbangladesh.SylhetareaActivity" />
+        <activity android:name="com.example.sajib17.travelbangladesh.Sreemangal" />
+        <activity android:name="com.example.sajib17.travelbangladesh.Moulabibazar" />
+        <activity android:name="com.example.sajib17.travelbangladesh.Sunamganj" />
+    </application>
+
+</manifest>

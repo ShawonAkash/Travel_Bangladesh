@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sonargaon.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sonargaon.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alutilacave.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\alutilacave.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shahedminar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shahedminar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaptailake.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kaptailake.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hussainidalan.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hussainidalan.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nilgiri.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nilgiri.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hakalukihaor.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hakalukihaor.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ahsanmanzil.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ahsanmanzil.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bogalake.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\bogalake.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shait.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shait.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\durgasagar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\durgasagar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paharpur.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\paharpur.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baikka.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\baikka.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remakalenga.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\remakalenga.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.PNG",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\logo.PNG"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baghamosque.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\baghamosque.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aliamjad.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\aliamjad.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratargul.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ratargul.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kanaraja.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kanaraja.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nationalmuseum.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nationalmuseum.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoilopropat.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shoilopropat.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saintmartin.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\saintmartin.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\android.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\armenianchurch.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\armenianchurch.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\richhangfalls.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\richhangfalls.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sajek.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sajek.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\puthiatemple.JPG",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\puthiatemple.JPG"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ramsagar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ramsagar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jaflong.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\jaflong.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nilachol.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nilachol.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lalbaghfort.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\lalbaghfort.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nafakhum.png",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nafakhum.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuthibari.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kuthibari.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sugarmill.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sugarmill.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patengabeach.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\patengabeach.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhakazoo.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\dhakazoo.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hajachora.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hajachora.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guthia.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\guthia.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sanguriver.JPG",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sanguriver.JPG"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feetbuddha.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\feetbuddha.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tanguarhaor.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\tanguarhaor.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shuvolong.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shuvolong.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dorga.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\dorga.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hangingbridge.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hangingbridge.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lalonshah.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\lalonshah.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\khoiyachora.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\khoiyachora.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuakata.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kuakata.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\parjatanhaging.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\parjatanhaging.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coxbazar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\coxbazar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\varendra.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\varendra.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\harding.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\harding.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sundarban.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sundarban.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\surma.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\surma.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\madhabpur.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\madhabpur.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vatiarlake.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\vatiarlake.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guavamarket.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\guavamarket.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\windows.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\windows.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bahadurshahpark.JPG",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\bahadurshahpark.JPG"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tajmahal.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\tajmahal.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sonarchar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sonarchar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\townhall.JPG",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\townhall.JPG"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lawachara.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\lawachara.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bisanakandi.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\bisanakandi.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nevalbeach.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nevalbeach.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pangthumai.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\pangthumai.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mahasthangarh.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\mahasthangarh.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\natorroyal.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\natorroyal.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupbanmura.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\rupbanmura.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ios.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fatrarchar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\fatrarchar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sritishoudho.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sritishoudho.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jadukata.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\jadukata.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inani.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\inani.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kantajewtemple.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kantajewtemple.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\himchori.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\himchori.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buddhadhatu.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\buddhadhatu.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhakeshwaritemple.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\dhakeshwaritemple.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rijuk.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\rijuk.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shalbanbihar.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shalbanbihar.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\madhbkundawaterfall.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\madhbkundawaterfall.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\humhum.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\humhum.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tajhat.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\tajhat.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jhauforest.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\jhauforest.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuakatabuddhist.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kuakatabuddhist.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\songsod.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\songsod.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chotosona.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\chotosona.jpg"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foyslake.jpg",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\drawable\\foyslake.jpg"
+    }
+]

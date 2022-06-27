@@ -1,0 +1,1974 @@
+[
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuvolong.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shuvolong.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jhauforest.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\jhauforest.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_customlayout.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\customlayout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dhakazoo.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\dhakazoo.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sonargaon.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sonargaon.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lalonshah.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\lalonshah.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dorga.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\dorga.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aliamjad.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\aliamjad.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bogalake.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\bogalake.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parjatanhaging.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\parjatanhaging.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_townhall.JPG.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\townhall.JPG"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rijuk.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\rijuk.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fatrarchar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\fatrarchar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inani.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\inani.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hangingbridge.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hangingbridge.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sunamganj.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sunamganj.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patengabeach.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\patengabeach.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sritishoudho.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sritishoudho.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nilgiri.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nilgiri.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_moulabibazar.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_moulabibazar.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pangthumai.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\pangthumai.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kuthibari.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kuthibari.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kanaraja.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kanaraja.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_natorroyal.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\natorroyal.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.PNG.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\logo.PNG"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sreemangal.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sreemangal.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jadukata.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\jadukata.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kuakatabuddhist.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kuakatabuddhist.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_barishal.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_barishal.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bisanakandi.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\bisanakandi.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tourismarea.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_tourismarea.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sylhetarea.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sylhetarea.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mahasthangarh.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\mahasthangarh.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foyslake.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\foyslake.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_lvlayout.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\lvlayout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sonarchar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sonarchar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_madhabpur.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\madhabpur.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alutilacave.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\alutilacave.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lawachara.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\lawachara.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puthiatemple.JPG.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\puthiatemple.JPG"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bahadurshahpark.JPG.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\bahadurshahpark.JPG"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resourt.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_resourt.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nilachol.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nilachol.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guavamarket.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\guavamarket.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jaflong.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\jaflong.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rangpur.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_rangpur.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_khoiyachora.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\khoiyachora.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dhakeshwaritemple.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\dhakeshwaritemple.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rajshahi.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_rajshahi.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buddhadhatu.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\buddhadhatu.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_khulna.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_khulna.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kantajewtemple.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kantajewtemple.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_himchori.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\himchori.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nationalmuseum.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nationalmuseum.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_madhbkundawaterfall.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\madhbkundawaterfall.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_humhum.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\humhum.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shait.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shait.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resourts.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_resourts.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tanguarhaor.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\tanguarhaor.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_surma.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\surma.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sundarban.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sundarban.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_thumb.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sugarmill.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sugarmill.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_richhangfalls.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\richhangfalls.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vatiarlake.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\vatiarlake.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_durgasagar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\durgasagar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shahedminar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shahedminar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baikka.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\baikka.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hakalukihaor.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hakalukihaor.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tajmahal.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\tajmahal.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chittagong.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_chittagong.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_remakalenga.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\remakalenga.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hajachora.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hajachora.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chotosona.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\chotosona.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hussainidalan.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\hussainidalan.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lalbaghfort.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\lalbaghfort.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shalbanbihar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shalbanbihar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paharpur.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\paharpur.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dhaka.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_dhaka.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nevalbeach.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nevalbeach.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratargul.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ratargul.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saintmartin.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\saintmartin.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feetbuddha.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\feetbuddha.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ramsagar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ramsagar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sylhet.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_sylhet.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sanguriver.JPG.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sanguriver.JPG"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ahsanmanzil.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\ahsanmanzil.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guthia.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\guthia.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoilopropat.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\shoilopropat.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kaptailake.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kaptailake.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_varendra.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\varendra.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coxbazar.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\coxbazar.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nafakhum.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\nafakhum.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_harding.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\harding.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sajek.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\sajek.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armenianchurch.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\armenianchurch.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tajhat.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\tajhat.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_songsod.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\songsod.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_outofdhaka.xml.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\layout\\activity_outofdhaka.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baghamosque.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\baghamosque.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kuakata.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\kuakata.jpg"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Akash Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\7f049b563480a27ed5c817430503c566\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rupbanmura.jpg.flat",
+        "source": "G:\\Androidstudio\\TravelBangladesh\\app\\src\\main\\res\\drawable\\rupbanmura.jpg"
+    }
+]

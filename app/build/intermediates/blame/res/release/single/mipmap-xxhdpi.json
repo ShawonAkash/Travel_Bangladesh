@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\TravelBangladesh\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Sajib 17\\.android\\build-cache\\1c7a7db13f4982e6615022b3d8fa0925c8aef719\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
